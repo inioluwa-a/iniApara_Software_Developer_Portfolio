@@ -30,13 +30,12 @@ This is a personal portfolio website for Inioluwa C. Apara, a Full Stack Develop
 
 ## Folder Structure
 
-- `main-file/`
-  - `index.html` - Main homepage
-  - `about.html` - About section
-  - `services.html` - Services offered
-  - `portfolio.html` - Project gallery
-  - `blog.html` - Blog section
-  - `assets/` - Images, CSS, JS, and icons
+- `index.html` - Main homepage
+- `about.html` - About section
+- `services.html` - Services offered
+- `portfolio.html` - Project gallery
+- `blog.html` - Blog section
+- `assets/` - Images, CSS, JS, and icons
 
 ## Customization
 
